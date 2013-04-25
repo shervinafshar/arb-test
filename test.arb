@@ -1,0 +1,33 @@
+arb.register(
+	"test", 
+	{
+	"MSG_HTML_TITLE": "Testing ARB",
+	"MSG_BODY_TEST": "This is a test.",
+	"MSG_CURR_LOCALE": "...and the selected language is \"{currentLocale}\".",
+	  "@MSG_CURR_LOCALE": {
+	    "placeholders": {
+	      "0": {
+	        "description": "This variable would show the current locale.",
+	        "example": "fr"
+	      }
+	    }
+	  }
+	}
+);
+
+arb.register(
+	"test:de", 
+	{
+	"MSG_HTML_TITLE": "ARB auf Probe",
+	"MSG_BODY_TEST": "Das ist ein Test.",
+	"MSG_CURR_LOCALE": "...und die ausgewählte Sprache ist \"{currentLocale}\".",
+	  "@MSG_CURR_LOCALE": {
+	    "placeholders": {
+	      "0": {
+	        "description": "This variable would show the current locale.",
+	        "example": "fr"
+	      }
+	    }
+	  }
+	}
+);

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/12/trunk/test
+END
+arbcore_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/test/arbcore_test.html
+END
+arbplural_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/test/arbplural_test.html
+END
+arbcore_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/12/trunk/test/arbcore_test.js
+END
+arbplural_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/12/trunk/test/arbplural_test.js
+END

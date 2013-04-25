@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: 1.6.0_26 (Apple Inc.)
+Built-By: jhy
+Build-Jdk: 1.6.0_26
+Export-Package: org.jsoup;uses:="org.jsoup.nodes,org.jsoup.parser,org.
+ jsoup.helper,org.jsoup.safety";version="1.6.1",org.jsoup.examples;use
+ s:="org.jsoup,org.jsoup.select,org.jsoup.nodes,org.jsoup.helper";vers
+ ion="1.6.1",org.jsoup.helper;uses:="org.jsoup,org.jsoup.nodes,org.jso
+ up.select,org.jsoup.parser";version="1.6.1",org.jsoup.nodes;uses:="or
+ g.jsoup.helper,org.jsoup.parser,org.jsoup.select";version="1.6.1",org
+ .jsoup.parser;uses:="org.jsoup.helper,org.jsoup.nodes";version="1.6.1
+ ",org.jsoup.safety;uses:="org.jsoup.nodes,org.jsoup.parser,org.jsoup.
+ helper";version="1.6.1",org.jsoup.select;uses:="org.jsoup.nodes,org.j
+ soup.helper,org.jsoup.parser";version="1.6.1"
+Tool: Bnd-0.0.357
+Bundle-Name: jsoup
+Bundle-Vendor: Jonathan Hedley
+Bundle-Version: 1.6.1
+Bnd-LastModified: 1309591930050
+Bundle-ManifestVersion: 2
+Bundle-License: http://jsoup.com/license
+Bundle-Description: jsoup HTML parser
+Import-Package: org.jsoup;version="1.6",org.jsoup.examples;version="1.
+ 6",org.jsoup.helper;version="1.6",org.jsoup.nodes;version="1.6",org.j
+ soup.parser;version="1.6",org.jsoup.safety;version="1.6",org.jsoup.se
+ lect;version="1.6"
+Bundle-SymbolicName: org.jsoup
+Bundle-DocURL: http://jsoup.org/
+

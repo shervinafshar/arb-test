@@ -1,0 +1,14 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="org.arb.extractor.ResourceExtractorTest" tests="8" failures="0" errors="0" timestamp="2013-04-25T03:51:23" hostname="Ender" time="0.104">
+  <properties/>
+  <testcase name="testSimepleMessageComposition2" classname="org.arb.extractor.ResourceExtractorTest" time="0.087"/>
+  <testcase name="testSimepleMessageComposition3" classname="org.arb.extractor.ResourceExtractorTest" time="0.0040"/>
+  <testcase name="testSimepleMessageComposition4" classname="org.arb.extractor.ResourceExtractorTest" time="0.0040"/>
+  <testcase name="testLiteralStringExtraction" classname="org.arb.extractor.ResourceExtractorTest" time="0.0010"/>
+  <testcase name="testSwithMessageComposition" classname="org.arb.extractor.ResourceExtractorTest" time="0.0020"/>
+  <testcase name="testSimepleMessageComposition" classname="org.arb.extractor.ResourceExtractorTest" time="0.0010"/>
+  <testcase name="testLiteralStringConcatenation" classname="org.arb.extractor.ResourceExtractorTest" time="0.0020"/>
+  <testcase name="testLiteralStringConcatenation2" classname="org.arb.extractor.ResourceExtractorTest" time="0.0010"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
